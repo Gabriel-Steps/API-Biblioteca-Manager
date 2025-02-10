@@ -29,7 +29,7 @@ O projeto segue a **Arquitetura Limpa**, separando as responsabilidades em quatr
 ### 1️⃣ Clonar o Repositório
 
 ```sh
-git clone https://github.com/Gabriel-Steps/Biblioteca-Manager.git
+git clone https://github.com/Gabriel-Steps/API-Biblioteca-Manager
 cd biblioteca-manager
 ```
 
