@@ -1,0 +1,11 @@
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Core\bin\Debug\net8.0\SistemaBiblioteca.Core.deps.json
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Core\bin\Debug\net8.0\SistemaBiblioteca.Core.dll
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Core\bin\Debug\net8.0\SistemaBiblioteca.Core.pdb
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Core\obj\Debug\net8.0\SistemaBiblioteca.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Core\obj\Debug\net8.0\SistemaBiblioteca.Core.AssemblyInfoInputs.cache
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Core\obj\Debug\net8.0\SistemaBiblioteca.Core.AssemblyInfo.cs
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Core\obj\Debug\net8.0\SistemaBiblioteca.Core.csproj.CoreCompileInputs.cache
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Core\obj\Debug\net8.0\SistemaBiblioteca.Core.dll
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Core\obj\Debug\net8.0\refint\SistemaBiblioteca.Core.dll
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Core\obj\Debug\net8.0\SistemaBiblioteca.Core.pdb
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Core\obj\Debug\net8.0\ref\SistemaBiblioteca.Core.dll

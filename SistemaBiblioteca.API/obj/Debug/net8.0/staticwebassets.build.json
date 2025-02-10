@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "faEPbW9yd6LzwicTmI2iLY6CtFX/iNfP+CqpvKtbgAc=",
+  "Source": "SistemaBiblioteca.API",
+  "BasePath": "_content/SistemaBiblioteca.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

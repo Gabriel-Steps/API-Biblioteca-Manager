@@ -1,0 +1,17 @@
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Application\obj\Debug\net8.0\SistemaBiblioteca.Application.csproj.AssemblyReference.cache
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Application\obj\Debug\net8.0\SistemaBiblioteca.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Application\obj\Debug\net8.0\SistemaBiblioteca.Application.AssemblyInfoInputs.cache
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Application\obj\Debug\net8.0\SistemaBiblioteca.Application.AssemblyInfo.cs
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Application\obj\Debug\net8.0\SistemaBiblioteca.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Application\bin\Debug\net8.0\SistemaBiblioteca.Application.deps.json
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Application\bin\Debug\net8.0\SistemaBiblioteca.Application.dll
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Application\bin\Debug\net8.0\SistemaBiblioteca.Application.pdb
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Application\bin\Debug\net8.0\SistemaBiblioteca.Core.dll
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Application\bin\Debug\net8.0\SistemaBiblioteca.Infrastructure.dll
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Application\bin\Debug\net8.0\SistemaBiblioteca.Core.pdb
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Application\bin\Debug\net8.0\SistemaBiblioteca.Infrastructure.pdb
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Application\obj\Debug\net8.0\SistemaB.094C880C.Up2Date
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Application\obj\Debug\net8.0\SistemaBiblioteca.Application.dll
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Application\obj\Debug\net8.0\refint\SistemaBiblioteca.Application.dll
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Application\obj\Debug\net8.0\SistemaBiblioteca.Application.pdb
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Application\obj\Debug\net8.0\ref\SistemaBiblioteca.Application.dll

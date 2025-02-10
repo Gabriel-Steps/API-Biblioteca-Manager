@@ -1,0 +1,17 @@
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Infrastructure\obj\Debug\net8.0\SistemaBiblioteca.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Infrastructure\obj\Debug\net8.0\SistemaBiblioteca.Infrastructure.AssemblyInfoInputs.cache
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Infrastructure\obj\Debug\net8.0\SistemaBiblioteca.Infrastructure.AssemblyInfo.cs
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Infrastructure\obj\Debug\net8.0\SistemaBiblioteca.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Infrastructure\bin\Debug\net8.0\SistemaBiblioteca.Infrastructure.deps.json
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Infrastructure\bin\Debug\net8.0\SistemaBiblioteca.Infrastructure.runtimeconfig.json
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Infrastructure\bin\Debug\net8.0\SistemaBiblioteca.Infrastructure.dll
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Infrastructure\bin\Debug\net8.0\SistemaBiblioteca.Infrastructure.pdb
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Infrastructure\bin\Debug\net8.0\SistemaBiblioteca.Core.dll
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Infrastructure\bin\Debug\net8.0\SistemaBiblioteca.Core.pdb
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Infrastructure\obj\Debug\net8.0\SistemaBiblioteca.Infrastructure.csproj.AssemblyReference.cache
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Infrastructure\obj\Debug\net8.0\SistemaB.DABA329C.Up2Date
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Infrastructure\obj\Debug\net8.0\SistemaBiblioteca.Infrastructure.dll
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Infrastructure\obj\Debug\net8.0\refint\SistemaBiblioteca.Infrastructure.dll
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Infrastructure\obj\Debug\net8.0\SistemaBiblioteca.Infrastructure.pdb
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Infrastructure\obj\Debug\net8.0\SistemaBiblioteca.Infrastructure.genruntimeconfig.cache
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Infrastructure\obj\Debug\net8.0\ref\SistemaBiblioteca.Infrastructure.dll
