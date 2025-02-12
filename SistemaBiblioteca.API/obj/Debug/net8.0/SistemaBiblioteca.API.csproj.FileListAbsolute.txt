@@ -149,7 +149,6 @@ C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.API\obj\Debug\
 C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.API\obj\Debug\net8.0\ref\SistemaBiblioteca.API.dll
 C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.API\bin\Debug\net8.0\SistemaBiblioteca.Application.dll
 C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.API\bin\Debug\net8.0\SistemaBiblioteca.Application.pdb
-C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.API\obj\Debug\net8.0\SistemaBiblioteca.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.API\bin\Debug\net8.0\MediatR.dll
 C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.API\bin\Debug\net8.0\MediatR.Contracts.dll
@@ -157,3 +156,5 @@ C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.API\bin\Debug\
 C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.API\bin\Debug\net8.0\FluentValidation.dll
 C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.API\obj\Debug\net8.0\SistemaBiblioteca.API.sourcelink.json
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

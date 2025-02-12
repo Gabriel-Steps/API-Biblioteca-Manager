@@ -1,6 +1,8 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using SistemaBiblioteca.Application.Commands.CreateUsuario;
+using SistemaBiblioteca.Application.Queries.GetAllLivros;
+using SistemaBiblioteca.Application.Queries.GetAllUsuarios;
 using SistemaBiblioteca.Application.Queries.GetUsuario;
 
 namespace SistemaBiblioteca.API.Controllers
@@ -20,6 +22,14 @@ namespace SistemaBiblioteca.API.Controllers
             var query = new GetUsuarioQuery(id);
             var usuario = await _mediator.Send(query);
             return Ok(usuario);
+        }
+
+        [HttpGet("getAll")]
+        public async Task<IActionResult> GetAll()
+        {
+            var query = new GetAllUsuarioQuery();
+            var usuarios = await _mediator.Send(query);
+            return Ok(usuarios);
         }
 
         [HttpPost("create")]

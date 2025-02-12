@@ -1,4 +1,5 @@
-﻿using SistemaBiblioteca.Core.Entities;
+﻿using Microsoft.EntityFrameworkCore;
+using SistemaBiblioteca.Core.Entities;
 using SistemaBiblioteca.Core.Repositories;
 using System;
 using System.Collections.Generic;
@@ -20,6 +21,11 @@ namespace SistemaBiblioteca.Infrastructure.Persistence.Repositories
         {
             await _context.Usuarios.AddAsync(usuario);
             await _context.SaveChangesAsync();
+        }
+
+        public async Task<List<Usuario>> GetAllAsync()
+        {
+            return await _context.Usuarios.ToListAsync();
         }
 
         public Usuario GetById(int id)

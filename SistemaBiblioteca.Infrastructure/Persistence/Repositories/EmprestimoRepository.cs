@@ -19,6 +19,7 @@ namespace SistemaBiblioteca.Infrastructure.Persistence.Repositories
         }
         public async Task Add(Emprestimo emprestimo)
         {
+
             _context.Livros.Find(emprestimo.IdLivro).Disponivel = false;
             await _context.Emprestimos.AddAsync(emprestimo);
             await _context.SaveChangesAsync();
@@ -38,6 +39,11 @@ namespace SistemaBiblioteca.Infrastructure.Persistence.Repositories
             _context.Livros.FirstOrDefault(l => l.Id == emprestimo.IdLivro).Disponivel = true;
             _context.Emprestimos.Remove(emprestimo);
             await _context.SaveChangesAsync();
+        }
+
+        public async Task<List<Emprestimo>> GetAllAsync()
+        {
+            return await _context.Emprestimos.ToListAsync();
         }
     }
 }

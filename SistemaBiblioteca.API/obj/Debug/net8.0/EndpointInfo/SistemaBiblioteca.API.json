@@ -58,6 +58,18 @@
         }
       }
     },
+    "/api/emprestimos/getAll": {
+      "get": {
+        "tags": [
+          "Emprestimo"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/livros/{id}": {
       "get": {
         "tags": [
@@ -160,6 +172,18 @@
               "format": "int32"
             }
           }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/usuarios/getAll": {
+      "get": {
+        "tags": [
+          "Usuario"
         ],
         "responses": {
           "200": {

@@ -11,5 +11,6 @@ namespace SistemaBiblioteca.Core.Repositories
     {
         Task Add(Emprestimo emprestimo);
         Task Delete(int id);
+        Task<List<Emprestimo>> GetAllAsync();
     }
 }

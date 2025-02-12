@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Projetos\\ProjetoBiblioteca\\SistemaBiblioteca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4E50BAC-7A8A-4144-AA94-0C3BDFF56CE7}|SistemaBiblioteca.Infrastructure\\SistemaBiblioteca.Infrastructure.csproj|c:\\projetos\\projetobiblioteca\\sistemabiblioteca\\sistemabiblioteca.infrastructure\\persistence\\bibliotecasistemacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4E50BAC-7A8A-4144-AA94-0C3BDFF56CE7}|SistemaBiblioteca.Infrastructure\\SistemaBiblioteca.Infrastructure.csproj|solutionrelative:sistemabiblioteca.infrastructure\\persistence\\bibliotecasistemacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{658C20B4-6B92-4651-B03B-16C9976516F1}|SistemaBiblioteca.API\\SistemaBiblioteca.API.csproj|c:\\projetos\\projetobiblioteca\\sistemabiblioteca\\sistemabiblioteca.api\\controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658C20B4-6B92-4651-B03B-16C9976516F1}|SistemaBiblioteca.API\\SistemaBiblioteca.API.csproj|solutionrelative:sistemabiblioteca.api\\controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{658C20B4-6B92-4651-B03B-16C9976516F1}|SistemaBiblioteca.API\\SistemaBiblioteca.API.csproj|c:\\projetos\\projetobiblioteca\\sistemabiblioteca\\sistemabiblioteca.api\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{658C20B4-6B92-4651-B03B-16C9976516F1}|SistemaBiblioteca.API\\SistemaBiblioteca.API.csproj|solutionrelative:sistemabiblioteca.api\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{658C20B4-6B92-4651-B03B-16C9976516F1}|SistemaBiblioteca.API\\SistemaBiblioteca.API.csproj|c:\\projetos\\projetobiblioteca\\sistemabiblioteca\\sistemabiblioteca.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658C20B4-6B92-4651-B03B-16C9976516F1}|SistemaBiblioteca.API\\SistemaBiblioteca.API.csproj|solutionrelative:sistemabiblioteca.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9873DE93-135A-4604-ACBB-68C6A81833CC}|SistemaBiblioteca.Application\\SistemaBiblioteca.Application.csproj|c:\\projetos\\projetobiblioteca\\sistemabiblioteca\\sistemabiblioteca.application\\validatios\\createemprestimocommandvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9873DE93-135A-4604-ACBB-68C6A81833CC}|SistemaBiblioteca.Application\\SistemaBiblioteca.Application.csproj|solutionrelative:sistemabiblioteca.application\\validatios\\createemprestimocommandvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BibliotecaSistemaContext.cs",
-              "DocumentMoniker": "C:\\Projetos\\ProjetoBiblioteca\\SistemaBiblioteca\\SistemaBiblioteca.Infrastructure\\Persistence\\BibliotecaSistemaContext.cs",
-              "RelativeDocumentMoniker": "SistemaBiblioteca.Infrastructure\\Persistence\\BibliotecaSistemaContext.cs",
-              "ToolTip": "C:\\Projetos\\ProjetoBiblioteca\\SistemaBiblioteca\\SistemaBiblioteca.Infrastructure\\Persistence\\BibliotecaSistemaContext.cs",
-              "RelativeToolTip": "SistemaBiblioteca.Infrastructure\\Persistence\\BibliotecaSistemaContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CreateEmprestimoCommandValidation.cs",
+              "DocumentMoniker": "C:\\Projetos\\ProjetoBiblioteca\\SistemaBiblioteca\\SistemaBiblioteca.Application\\Validatios\\CreateEmprestimoCommandValidation.cs",
+              "RelativeDocumentMoniker": "SistemaBiblioteca.Application\\Validatios\\CreateEmprestimoCommandValidation.cs",
+              "ToolTip": "C:\\Projetos\\ProjetoBiblioteca\\SistemaBiblioteca\\SistemaBiblioteca.Application\\Validatios\\CreateEmprestimoCommandValidation.cs",
+              "RelativeToolTip": "SistemaBiblioteca.Application\\Validatios\\CreateEmprestimoCommandValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T00:48:57.206Z",
+              "WhenOpened": "2025-02-12T02:12:34.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LivroController.cs",
-              "DocumentMoniker": "C:\\Projetos\\ProjetoBiblioteca\\SistemaBiblioteca\\SistemaBiblioteca.API\\Controllers\\LivroController.cs",
-              "RelativeDocumentMoniker": "SistemaBiblioteca.API\\Controllers\\LivroController.cs",
-              "ToolTip": "C:\\Projetos\\ProjetoBiblioteca\\SistemaBiblioteca\\SistemaBiblioteca.API\\Controllers\\LivroController.cs",
-              "RelativeToolTip": "SistemaBiblioteca.API\\Controllers\\LivroController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\ProjetoBiblioteca\\SistemaBiblioteca\\SistemaBiblioteca.API\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaBiblioteca.API\\Program.cs",
+              "ToolTip": "C:\\Projetos\\ProjetoBiblioteca\\SistemaBiblioteca\\SistemaBiblioteca.API\\Program.cs",
+              "RelativeToolTip": "SistemaBiblioteca.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T00:44:17.447Z",
+              "WhenOpened": "2025-02-12T02:10:03.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmprestimoController.cs",
+              "DocumentMoniker": "C:\\Projetos\\ProjetoBiblioteca\\SistemaBiblioteca\\SistemaBiblioteca.API\\Controllers\\EmprestimoController.cs",
+              "RelativeDocumentMoniker": "SistemaBiblioteca.API\\Controllers\\EmprestimoController.cs",
+              "ToolTip": "C:\\Projetos\\ProjetoBiblioteca\\SistemaBiblioteca\\SistemaBiblioteca.API\\Controllers\\EmprestimoController.cs",
+              "RelativeToolTip": "SistemaBiblioteca.API\\Controllers\\EmprestimoController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T00:49:07.356Z",
               "EditorCaption": ""
             }
           ]

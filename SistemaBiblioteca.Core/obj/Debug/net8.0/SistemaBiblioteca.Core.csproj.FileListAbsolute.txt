@@ -9,3 +9,4 @@ C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Core\obj\Debug
 C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Core\obj\Debug\net8.0\refint\SistemaBiblioteca.Core.dll
 C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Core\obj\Debug\net8.0\SistemaBiblioteca.Core.pdb
 C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Core\obj\Debug\net8.0\ref\SistemaBiblioteca.Core.dll
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Core\obj\Debug\net8.0\SistemaBiblioteca.Core.sourcelink.json

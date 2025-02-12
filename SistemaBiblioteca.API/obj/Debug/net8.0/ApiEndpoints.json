@@ -32,6 +32,16 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "SistemaBiblioteca.API.Controllers.EmprestimoController",
+    "Method": "GetAll",
+    "RelativePath": "api/emprestimos/getAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "SistemaBiblioteca.API.Controllers.LivroController",
     "Method": "GetById",
     "RelativePath": "api/livros/{id}",
@@ -119,6 +129,16 @@
         "IsRequired": true
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaBiblioteca.API.Controllers.UsuarioController",
+    "Method": "GetAll",
+    "RelativePath": "api/usuarios/getAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   }
 ]

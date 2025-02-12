@@ -11,5 +11,7 @@ namespace SistemaBiblioteca.Core.Repositories
     {
         Usuario GetById(int id);
         Task CreateAsync(Usuario usuario);
+
+        Task<List<Usuario>> GetAllAsync();
     }
 }

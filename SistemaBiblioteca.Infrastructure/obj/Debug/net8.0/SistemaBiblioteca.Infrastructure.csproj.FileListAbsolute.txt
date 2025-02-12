@@ -15,3 +15,4 @@ C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Infrastructure
 C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Infrastructure\obj\Debug\net8.0\SistemaBiblioteca.Infrastructure.pdb
 C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Infrastructure\obj\Debug\net8.0\SistemaBiblioteca.Infrastructure.genruntimeconfig.cache
 C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Infrastructure\obj\Debug\net8.0\ref\SistemaBiblioteca.Infrastructure.dll
+C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.Infrastructure\obj\Debug\net8.0\SistemaBiblioteca.Infrastructure.sourcelink.json
