@@ -23,10 +23,12 @@ namespace SistemaBiblioteca.Application.Queries.GetAllLivros
             var livros = await _context.GetAll();
             var livrosViewModel = livros
                 .Select(l => new LivroViewModel(
+		    l.Id,
                     l.Titulo,
                     l.Autor,
                     l.ISBN,
-                    l.AnoDeLancamento))
+                    l.AnoDeLancamento,
+		    l.Disponivel))
                 .ToList();
             return livrosViewModel;
         }

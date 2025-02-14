@@ -46,12 +46,12 @@ namespace SistemaBiblioteca.API.Controllers
             return Ok(livros);
         }
 
-        [HttpDelete("{id}")]
+        [HttpDelete("delete/{id}")]
         public async Task<IActionResult> Delete(int id)
         {
             var command = new DeleteLivroCommand(id);
             await _mediator.Send(command);
-            return Ok();
+            return Ok("Livro deletado com sucesso!");
         }
     }
 }

@@ -8,13 +8,14 @@ namespace SistemaBiblioteca.Application.ViewModels
 {
     public class LivroDetailsViewModel
     {
-        public LivroDetailsViewModel(int id, string titulo, string autor, string iSBN, int anoDePublicacao)
+        public LivroDetailsViewModel(int id, string titulo, string autor, string iSBN, int anoDePublicacao, bool disponivel)
         {
             Id = id;
             Titulo = titulo;
             Autor = autor;
             ISBN = iSBN;
             AnoDePublicacao = anoDePublicacao;
+	    Disponivel = disponivel;
         }
 
         public int Id { get; set; }
@@ -22,5 +23,6 @@ namespace SistemaBiblioteca.Application.ViewModels
         public string Autor {  get; set; }
         public string ISBN { get; set; }
         public int AnoDePublicacao { get; set; }
+	public bool Disponivel { get; set; }
     }
 }

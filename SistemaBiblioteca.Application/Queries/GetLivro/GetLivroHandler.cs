@@ -31,7 +31,8 @@ namespace SistemaBiblioteca.Application.Queries.GetLivro
                 livro.Titulo,
                 livro.Autor,
                 livro.ISBN,
-                livro.AnoDeLancamento);
+                livro.AnoDeLancamento,
+		livro.Disponivel);
             return livroInfo;
         }
     }

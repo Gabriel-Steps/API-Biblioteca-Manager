@@ -157,4 +157,3 @@ C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.API\bin\Debug\
 C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.API\obj\Debug\net8.0\SistemaBiblioteca.API.sourcelink.json
-C:\Projetos\ProjetoBiblioteca\SistemaBiblioteca\SistemaBiblioteca.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
