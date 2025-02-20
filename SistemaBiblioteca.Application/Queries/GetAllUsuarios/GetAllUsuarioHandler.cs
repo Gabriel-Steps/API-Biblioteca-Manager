@@ -20,7 +20,7 @@ namespace SistemaBiblioteca.Application.Queries.GetAllUsuarios
         {
             var usuarios = await _context.GetAllAsync();
             var usuariosViewModel = usuarios
-                .Select(u => new UsuarioDetailsViewModel(u.Nome, u.Email)).ToList();
+                .Select(u => new UsuarioDetailsViewModel(u.Id, u.Nome, u.Email)).ToList();
             return usuariosViewModel;
         }
     }

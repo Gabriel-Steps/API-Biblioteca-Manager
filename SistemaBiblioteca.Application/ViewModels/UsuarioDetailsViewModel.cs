@@ -8,12 +8,14 @@ namespace SistemaBiblioteca.Application.ViewModels
 {
     public class UsuarioDetailsViewModel
     {
-        public UsuarioDetailsViewModel(string nome, string email)
+        public UsuarioDetailsViewModel(int id, string nome, string email)
         {
+	    Id = id;
             Nome = nome;
             Email = email;
         }
-
+	
+	public int Id { get; set; }
         public string Nome { get; set; }
         public string Email { get; set; }
     }

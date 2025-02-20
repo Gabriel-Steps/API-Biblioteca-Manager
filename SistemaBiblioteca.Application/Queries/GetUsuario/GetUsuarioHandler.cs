@@ -24,7 +24,7 @@ namespace SistemaBiblioteca.Application.Queries.GetUsuario
             {
                 throw new Exception("Usuário não encontrado!");
             }
-            var usuarioInfo = new UsuarioDetailsViewModel(user.Nome, user.Email);
+            var usuarioInfo = new UsuarioDetailsViewModel(user.Id, user.Nome, user.Email);
             return usuarioInfo;
         }
     }

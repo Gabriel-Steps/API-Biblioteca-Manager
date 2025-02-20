@@ -33,7 +33,7 @@ namespace SistemaBiblioteca.API.Controllers
             return Ok(id);
         }
 
-        [HttpDelete("delete")]
+        [HttpDelete("delete/{id}")]
         public async Task<IActionResult> Delete(int id) {
             var delete = new DeleteEmprestimoCommand(id);
             await _mediator.Send(delete);
